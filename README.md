@@ -7,5 +7,5 @@ There will be two players in this game. At the start of the game Player 1 will b
 * Hold: If the current player clicks on HOLD, then the Current Score will be added to the Total Score. When the active player clicks the Hold button then the total score is evaluated. If the Total Score >= 100 then the current player wins else the players are switched.
 * Reset: All the scores are set to 0 and Player 1 is set as the starting player (current player).
  
-##Making of Game: 
+## Making of Game: 
 Being a game rendered by the web browser, it is built by the help of HTML, CSS (for the Front-end) and JavaScript (for the Back-end). The main logic of the game lies in the JS file whereas the appearance and the User Interface is rendered by HTML and CSS. In this project, there are basically four types of files:
